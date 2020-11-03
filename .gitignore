@@ -1,7 +1,7 @@
-virtual 
+virtual
 .env
-*pyc
-__pycache__
 .vscode
-start.sh
+*pyc
 .psql_history
+start.sh
+__pycache__
