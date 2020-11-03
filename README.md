@@ -1,4 +1,4 @@
-<!-- # BLOGGERS
+# BLOGGERS
 
 ## AUTHOR
 ### [BihawaM](https://github.com/BihawaM)
@@ -31,4 +31,4 @@ blogchain is an application that allows the writer to post their blogs and users
   -Heroku
 
  
- Copyright (c) 2020 BihawaM -->
+ Copyright (c) 2020 BihawaM
